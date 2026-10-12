@@ -29,7 +29,7 @@
   <a href="https://github.com/tabishfarhan7">
     <img src="https://readme-typing-svg.demolab.com/?lines=Talha%20Isteyaque%20;Full-stack%20web%20and%20app%20developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=420&height=65&color=#17A5FFFF&vCenter=true&duration=4000&pause=1000&size=22" /></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tabishfarhan7&label=Profile%20views&color=0e75b6&style=flat" alt="TabishFarhan" /> </p>
+
 <p align="center">
   <code>powered by curiosity and questionable decisions - let's code something awesome!</code>
 </p>
