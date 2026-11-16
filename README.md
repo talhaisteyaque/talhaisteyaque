@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://salam-beta.vercel.app">
-    <img width="250" src="https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/zen.png" title="Salam from Tabish" alt="Salam from Talha">
+    <img width="250" src="https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/zen.png" title="Salam from Talha" alt="Salam from Talha">
   </a>
 </p>
 
